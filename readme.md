@@ -4,7 +4,7 @@ This is our introductory project in creating a README file so that visitors to o
 
 ## Project Contributors
 
-Austin Schrader, Callie Stump, Eric Stratton
+Co Austin Schrader, Callie Stump, Eric Stratton
 
 ## Technology Used
 
